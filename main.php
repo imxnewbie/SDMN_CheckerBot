@@ -1,5 +1,6 @@
 <?php
-
+error_reporting(0);
+error_reporting(0);
 
 include __DIR__."/config/config.php";
 include __DIR__."/config/variables.php";
